@@ -15,7 +15,9 @@ module.exports = {
       },
       colors: {
         "vue-slate": "#2c3e50",
-        "vue-green": "#42b983",
+        "vue-green": "#42b883",
+        "vue-green-dark": "#33a06f",
+        "vue-green-light": "#42d392",
       },
     },
   },

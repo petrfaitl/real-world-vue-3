@@ -1,8 +1,11 @@
-<template></template>
+<template>
+  <div>Edit the Event</div>
+</template>
 
 <script>
 export default {
-  name: "Edit",
+  name: "EventEdit",
+  props: ["event"],
 };
 </script>
 

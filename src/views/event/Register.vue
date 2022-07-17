@@ -1,8 +1,11 @@
-<template></template>
+<template>
+  <div>Register for an Event</div>
+</template>
 
 <script>
 export default {
-  name: "Register",
+  name: "EventRegister",
+  props: ["event"],
 };
 </script>
 
