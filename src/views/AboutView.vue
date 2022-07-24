@@ -4,3 +4,8 @@
     <p>you are on a page {{ $route.name }}</p>
   </div>
 </template>
+<script>
+export default {
+  name: "AboutView",
+};
+</script>

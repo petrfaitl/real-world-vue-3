@@ -25,13 +25,8 @@ const routes = [
     path: "/event/:id",
     name: "EventLayout",
     component: EventLayout,
-    props: (route) => ({ id: route.params.id }),
+    props: true,
     children: [
-      {
-        path: "",
-        name: "EventDetails",
-        component: EventDetails,
-      },
       {
         path: "register",
         name: "EventRegister",
@@ -41,6 +36,11 @@ const routes = [
         path: "edit",
         name: "EventEdit",
         component: EventEdit,
+      },
+      {
+        path: "",
+        name: "EventDetails",
+        component: EventDetails,
       },
     ],
   },
