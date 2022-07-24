@@ -1,0 +1,311 @@
+{
+  "events": [
+    {
+      "id": 123,
+      "category": "animal welfare",
+      "title": "Cat Adoption Day",
+      "description": "Find your new feline friend at this event.",
+      "location": "Meow Town",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "organizer": "Kat Laydee"
+    },
+    {
+      "id": 456,
+      "category": "food",
+      "title": "Community Gardening",
+      "description": "Join us as we tend to the community edible plants.",
+      "location": "Flora City",
+      "date": "March 14, 2022",
+      "time": "10:00",
+      "organizer": "Fern Pollin"
+    },
+    {
+      "id": 789,
+      "category": "sustainability",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "organizer": "Carey Wales"
+    },
+    {
+      "id": 657495975,
+      "title": "Cat grooming",
+      "category": "Cat services",
+      "description": "Get your cat groomed for free",
+      "location": "Meow York",
+      "date": "16 June 2022",
+      "time": "18:00",
+      "petsAllowed": true,
+      "organizer": "Cat Laydee"
+    },
+    {
+      "id": 8827,
+      "category": "Drama|War",
+      "title": "Giant heron",
+      "description": "Managed incremental standardization",
+      "location": "Xixiang",
+      "date": "21-05-2022",
+      "time": "1:41",
+      "petsAllowed": true,
+      "organizer": "Lisette Vearncomb"
+    },
+    {
+      "id": 7812,
+      "category": "Comedy|Horror|Sci-Fi|Thriller",
+      "title": "Lava gull",
+      "description": "Universal attitude-oriented frame",
+      "location": "Paritaman",
+      "date": "03-11-2022",
+      "time": "13:44",
+      "petsAllowed": false,
+      "organizer": "Cyrille Pouck"
+    },
+    {
+      "id": 7524,
+      "category": "Action|Adventure|Thriller|IMAX",
+      "title": "Raccoon, crab-eating",
+      "description": "Sharable directional function",
+      "location": "Strathmore",
+      "date": "04-12-2021",
+      "time": "3:11",
+      "petsAllowed": false,
+      "organizer": "Yolane Kinnerk"
+    },
+    {
+      "id": 6418,
+      "category": "Drama|Thriller",
+      "title": "Cat, civet",
+      "description": "Triple-buffered hybrid neural-net",
+      "location": "Aihua",
+      "date": "07-12-2022",
+      "time": "11:52",
+      "petsAllowed": true,
+      "organizer": "Shelia Eathorne"
+    },
+    {
+      "id": 8288,
+      "category": "Adventure|Drama",
+      "title": "Fox, north american red",
+      "description": "User-friendly modular open architecture",
+      "location": "Paris 02",
+      "date": "03-01-2022",
+      "time": "3:20",
+      "petsAllowed": true,
+      "organizer": "Cilka Verlander"
+    },
+    {
+      "id": 2689,
+      "category": "Drama|Thriller",
+      "title": "Anteater, australian spiny",
+      "description": "Inverse heuristic contingency",
+      "location": "Uenohara",
+      "date": "03-08-2022",
+      "time": "9:32",
+      "petsAllowed": true,
+      "organizer": "Clarke Oertzen"
+    },
+    {
+      "id": 5943,
+      "category": "Sci-Fi|Thriller",
+      "title": "Andean goose",
+      "description": "Customer-focused 24 hour parallelism",
+      "location": "Yihe",
+      "date": "23-07-2022",
+      "time": "2:09",
+      "petsAllowed": true,
+      "organizer": "Blancha Rainsbury"
+    },
+    {
+      "id": 8429,
+      "category": "Documentary",
+      "title": "Pine snake (unidentified)",
+      "description": "Digitized empowering matrix",
+      "location": "Cibungur",
+      "date": "22-11-2022",
+      "time": "7:23",
+      "petsAllowed": true,
+      "organizer": "Keefe Goodayle"
+    },
+    {
+      "id": 7078,
+      "category": "Animation",
+      "title": "Gambel's quail",
+      "description": "Total transitional infrastructure",
+      "location": "Kalloní",
+      "date": "04-02-2022",
+      "time": "22:44",
+      "petsAllowed": true,
+      "organizer": "Jaclin Rubinowitsch"
+    },
+    {
+      "id": 3987,
+      "category": "Comedy",
+      "title": "Water monitor",
+      "description": "Expanded multi-tasking complexity",
+      "location": "Évora",
+      "date": "01-10-2022",
+      "time": "16:14",
+      "petsAllowed": true,
+      "organizer": "Shandee Emmerson"
+    },
+    {
+      "id": 3657,
+      "category": "Comedy|Drama|Romance",
+      "title": "Common zebra",
+      "description": "Managed bottom-line artificial intelligence",
+      "location": "New Leyte",
+      "date": "26-01-2022",
+      "time": "3:53",
+      "petsAllowed": false,
+      "organizer": "Helaine Rosenqvist"
+    },
+    {
+      "id": 7129,
+      "category": "(no genres listed)",
+      "title": "Bird (unidentified)",
+      "description": "Ergonomic contextually-based methodology",
+      "location": "Vimmerby",
+      "date": "24-11-2022",
+      "time": "3:07",
+      "petsAllowed": true,
+      "organizer": "Waite Scholefield"
+    },
+    {
+      "id": 5199,
+      "category": "Comedy|Crime",
+      "title": "Knob-nosed goose",
+      "description": "Virtual next generation open system",
+      "location": "Pacaraos",
+      "date": "07-11-2022",
+      "time": "2:23",
+      "petsAllowed": false,
+      "organizer": "Webster Doig"
+    },
+    {
+      "id": 1585,
+      "category": "Comedy|Musical|Romance",
+      "title": "Monkey, bleeding heart",
+      "description": "Synergized holistic Graphic Interface",
+      "location": "Varberg",
+      "date": "28-01-2022",
+      "time": "6:05",
+      "petsAllowed": false,
+      "organizer": "Nerta Glyssanne"
+    },
+    {
+      "id": 6956,
+      "category": "Drama|Romance",
+      "title": "Asiatic wild ass",
+      "description": "Realigned fault-tolerant access",
+      "location": "Floriano",
+      "date": "25-09-2022",
+      "time": "16:34",
+      "petsAllowed": true,
+      "organizer": "Janean Ruddock"
+    },
+    {
+      "id": 8063,
+      "category": "Action|Adventure|Fantasy|Sci-Fi",
+      "title": "Japanese macaque",
+      "description": "Open-architected system-worthy circuit",
+      "location": "Nueve de Julio",
+      "date": "03-03-2022",
+      "time": "7:18",
+      "petsAllowed": false,
+      "organizer": "Engelbert Pardoe"
+    },
+    {
+      "id": 9055,
+      "category": "Drama|Romance",
+      "title": "Savannah deer",
+      "description": "Self-enabling global capability",
+      "location": "Banyuurip",
+      "date": "07-09-2021",
+      "time": "4:34",
+      "petsAllowed": true,
+      "organizer": "Cornall Standing"
+    },
+    {
+      "id": 5436,
+      "category": "Documentary|Musical|IMAX",
+      "title": "Capuchin, black-capped",
+      "description": "Virtual zero defect firmware",
+      "location": "Kaduy",
+      "date": "26-10-2021",
+      "time": "10:03",
+      "petsAllowed": false,
+      "organizer": "Noam Mazey"
+    },
+    {
+      "id": 4033,
+      "category": "Comedy|Romance",
+      "title": "Four-horned antelope",
+      "description": "Synchronised interactive concept",
+      "location": "Examília",
+      "date": "03-07-2022",
+      "time": "17:41",
+      "petsAllowed": true,
+      "organizer": "Kimbell MacCaughen"
+    },
+    {
+      "id": 2931,
+      "category": "Drama",
+      "title": "Lapwing (unidentified)",
+      "description": "Multi-channelled real-time artificial intelligence",
+      "location": "Alpiarça",
+      "date": "20-09-2022",
+      "time": "22:50",
+      "petsAllowed": true,
+      "organizer": "Letty Moreside"
+    },
+    {
+      "id": 3728,
+      "category": "Children|Comedy",
+      "title": "Caracara, yellow-headed",
+      "description": "Public-key heuristic initiative",
+      "location": "Vol’sk",
+      "date": "04-01-2022",
+      "time": "3:11",
+      "petsAllowed": false,
+      "organizer": "Ryann Sydry"
+    },
+    {
+      "id": 8691,
+      "category": "Drama|Thriller",
+      "title": "Ibis, sacred",
+      "description": "Inverse reciprocal groupware",
+      "location": "Bobolice",
+      "date": "09-11-2021",
+      "time": "10:39",
+      "petsAllowed": false,
+      "organizer": "Buckie Hawthorn"
+    },
+    {
+      "id": 2176,
+      "category": "Comedy|Drama",
+      "title": "Australian brush turkey",
+      "description": "Compatible dedicated interface",
+      "location": "Cesson",
+      "date": "27-07-2022",
+      "time": "7:01",
+      "petsAllowed": false,
+      "organizer": "Ferdinand Lambell"
+    },
+    {
+      "id": 8042,
+      "category": "Drama",
+      "title": "Black-throated cardinal",
+      "description": "Inverse stable array",
+      "location": "Grojec",
+      "date": "27-11-2021",
+      "time": "12:16",
+      "petsAllowed": false,
+      "organizer": "Haily Highway"
+    }
+  ]
+}
+
+

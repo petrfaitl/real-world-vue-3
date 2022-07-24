@@ -1,30 +1,12 @@
 <template>
-  <nav>
-    <router-link :to="{ name: 'EventList' }">Events</router-link> |
-    <router-link :to="{ name: 'AboutView' }">About</router-link>
+  <nav class="p-6 mx-auto flex gap-2 justify-center">
+    <router-link :to="{ name: 'EventList' }" class="font-bold"
+      >Events</router-link
+    >
+    |
+    <router-link :to="{ name: 'About' }" class="font-bold">About</router-link>
   </nav>
   <router-view />
 </template>
 
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
-
-nav {
-  padding: 30px;
-}
-
-nav a {
-  font-weight: bold;
-  color: #2c3e50;
-}
-
-nav a.router-link-exact-active {
-  color: #42b983;
-}
-</style>
+<style></style>

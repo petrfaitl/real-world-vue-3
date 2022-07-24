@@ -11,6 +11,11 @@ module.exports = {
           "Segoe UI",
           "Helvetica Neue",
         ],
+        sans: ["Avenir", "Helvetica", "Arial", "sans-serif"],
+      },
+      colors: {
+        "vue-slate": "#2c3e50",
+        "vue-green": "#42b983",
       },
     },
   },

@@ -4,7 +4,7 @@
       :to="{ name: 'EventDetails', params: { id: parseInt(event.id) } }"
     >
       <div
-        class="p-8 cursor-pointer border border-slate-500 mb-8 hover:scale-105 hover:shadow-lg transition-transform duration-300"
+        class="p-8 text-center cursor-pointer border border-slate-300 hover:border-slate-500 mb-8 hover:scale-105 hover:shadow-lg transition-transform duration-300"
       >
         <span class="text-sm">@ {{ event.time }} on {{ event.date }}</span>
         <h4 class="font-bold text-lg my-6">{{ event.title }}</h4>
