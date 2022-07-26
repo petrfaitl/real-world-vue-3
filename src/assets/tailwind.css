@@ -3,3 +3,7 @@
 @tailwind components;
 
 @tailwind utilities;
+
+.btn{
+    @apply px-3 inline py-2.5 text-sm font-medium leading-5 shadow text-white transition-colors duration-150 border border-transparent rounded-lg focus:outline-none bg-vue-green active:bg-vue-green hover:bg-vue-green-dark
+}

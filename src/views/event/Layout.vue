@@ -3,6 +3,12 @@
     v-if="event"
     class="m-auto w-full sm:w-1/2 lg:w-1/3 shadow-xl p-8 flex flex-col text-center gap-3 relative"
   >
+    <button
+      class="absolute -top-4 left-1 text-vue-green hover:text-vue-green-dark transition-all"
+      @click="goBack"
+    >
+      &langle; Back
+    </button>
     <div class="absolute top-4 right-4">
       <router-link
         :to="{ name: 'EventEdit' }"
@@ -44,11 +50,27 @@ export default {
     };
   },
   props: ["id"],
+  methods: {
+    goBack() {
+      this.$router.push("/");
+    },
+  },
   async created() {
     try {
       this.event = await EventService.getEventDetails(this.id);
     } catch (e) {
-      console.log(e);
+      console.error(e.message);
+
+      if (e.response && e.response.status === 404) {
+        this.$router.push({
+          name: "404Resource",
+          params: { resource: "event" },
+        });
+      }
+
+      this.$router.push({
+        name: "NetworkError",
+      });
     }
   },
 };

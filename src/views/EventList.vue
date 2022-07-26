@@ -64,8 +64,10 @@ export default {
         this.events = data;
         this.totalEvents = maxItems;
       });
-    } catch (e) {
-      console.log(e);
+    } catch (_) {
+      this.$router.push({
+        name: "NetworkError",
+      });
     }
   },
   computed: {
